@@ -1,5 +1,7 @@
 # Pipeline de Integración Continua con GitHub Actions
 
+[![Build and test of Java Project](https://github.com/ETSISI-EMS/ems2023_lab_1_3_ci_github_actions-Cortijo02/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2023_lab_1_3_ci_github_actions-Cortijo02/actions/workflows/main.yml)
+
 Repositorio para el laboratorio de CI con GitHub Actions
 
 ## Descripción del laboratorio
